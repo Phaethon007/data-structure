@@ -1,0 +1,11 @@
+nama|nim|asal
+Bayu|1202507002|Surakarta
+Galuh|1202507003|Wonogiri
+Lana|1202507004|Surakarta
+Artha|1202507005|Sukoharjo
+Arkan|1202507006|Karanganyar
+Daffa|1202507007|Surakarta
+Rara|1202507008|Boyolali
+Rakha|1202507009|Sukoharjo
+Efi|1202507011|Timor Leste
+Rover|2202507001|Solaris
